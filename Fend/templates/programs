@@ -1,0 +1,2 @@
+s="while"
+print(s)
