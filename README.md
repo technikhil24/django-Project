@@ -17,9 +17,10 @@ This is a full-featured *E-commerce web application* built using Django framewor
 - *Frontend*: HTML, CSS, Bootstrap
 - *Database*: SQLite / PostgreSQL (optional)
 - *Payment Gateway*: (Add if integrated, e.g. Razorpay/Stripe)
-  📂 Project Structure
+
+📂 Project Structure
   ecommerce_project/ │ ├── ecommerce/           # Main Django app │   ├── templates/       # HTML templates │   ├── static/          # CSS, JS, images │   ├── models.py
-   # Database models │   ├── views.py         # Views/Controllers │   └── urls.py          # URL routes │ ├── manage.py            # Django CLI entry └── requirements.txt     # Python dependencies
+   Database models │   ├── views.py         # Views/Controllers │   └── urls.py          # URL routes │ ├── manage.py            # Django CLI entry └── requirements.txt     # Python dependencies
 ✅ Future Improvements
 
 Add online payment gateway
